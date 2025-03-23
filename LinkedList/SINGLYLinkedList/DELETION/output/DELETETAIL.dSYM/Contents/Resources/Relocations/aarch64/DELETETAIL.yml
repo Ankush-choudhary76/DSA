@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ankushchoudhari76/Documents/VS CODE/DSA/LinkedList/DELETION/output/DELETETAIL'
+relocations:
+  - { offset: 0x16CB7, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x649AC, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x16FA5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x94, symBinAddr: 0x100003D44, symSize: 0xF8 }
+  - { offset: 0x16FE6, size: 0x8, addend: 0x0, symName: __Z10removeTAILP4Node, symObjAddr: 0x2C, symBinAddr: 0x100003CDC, symSize: 0x68 }
+  - { offset: 0x17044, size: 0x8, addend: 0x0, symName: __ZN4NodeC1Ei, symObjAddr: 0x0, symBinAddr: 0x100003CB0, symSize: 0x2C }
+...

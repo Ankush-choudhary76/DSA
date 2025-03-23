@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ankushchoudhari76/Documents/VS CODE/DSA/LinkedList/SINGLYLinkedList/BASICLIST/output/lengthOFlist'
+relocations:
+  - { offset: 0x16CB7, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x64BE8, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x16FC5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xB8, symBinAddr: 0x100003D64, symSize: 0xBC }
+  - { offset: 0x16FF7, size: 0x8, addend: 0x0, symName: __Z10findlengthP4Node, symObjAddr: 0x2C, symBinAddr: 0x100003CD8, symSize: 0x8C }
+  - { offset: 0x17064, size: 0x8, addend: 0x0, symName: __ZN4NodeC1Ei, symObjAddr: 0x0, symBinAddr: 0x100003CAC, symSize: 0x2C }
+...

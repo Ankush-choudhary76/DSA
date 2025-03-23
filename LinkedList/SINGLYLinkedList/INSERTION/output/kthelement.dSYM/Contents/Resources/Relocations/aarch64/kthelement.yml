@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ankushchoudhari76/Documents/VS CODE/DSA/LinkedList/INSERTION/output/kthelement'
+relocations:
+  - { offset: 0x16CB7, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x64D68, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x16FA5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1A4, symBinAddr: 0x100003CE4, symSize: 0xFC }
+  - { offset: 0x17000, size: 0x8, addend: 0x0, symName: __Z5printP4Node, symObjAddr: 0x140, symBinAddr: 0x100003C80, symSize: 0x64 }
+  - { offset: 0x17032, size: 0x8, addend: 0x0, symName: __Z6insertP4Nodeii, symObjAddr: 0x2C, symBinAddr: 0x100003B6C, symSize: 0x114 }
+  - { offset: 0x1710E, size: 0x8, addend: 0x0, symName: __ZN4NodeC1Ei, symObjAddr: 0x0, symBinAddr: 0x100003B40, symSize: 0x2C }
+...
