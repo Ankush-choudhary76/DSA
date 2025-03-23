@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ankushchoudhari76/Documents/VS CODE/DSA/LinkedList/MEDIUMproblemLL/Find the intersection point of Y LinkedList/output/optimal'
+relocations:
+  - { offset: 0x16CB7, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x64E5C, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x16FC5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1A0, symBinAddr: 0x100003C70, symSize: 0x114 }
+  - { offset: 0x17033, size: 0x8, addend: 0x0, symName: __Z12intersectionP4NodeS0_, symObjAddr: 0x124, symBinAddr: 0x100003BF4, symSize: 0x7C }
+  - { offset: 0x1708E, size: 0x8, addend: 0x0, symName: __Z7printLLP4Node, symObjAddr: 0xC4, symBinAddr: 0x100003B94, symSize: 0x60 }
+  - { offset: 0x170BC, size: 0x8, addend: 0x0, symName: __Z8insertLLRP4Nodei, symObjAddr: 0x2C, symBinAddr: 0x100003AFC, symSize: 0x98 }
+  - { offset: 0x1713E, size: 0x8, addend: 0x0, symName: __ZN4NodeC1Ei, symObjAddr: 0x0, symBinAddr: 0x100003AD0, symSize: 0x2C }
+...
