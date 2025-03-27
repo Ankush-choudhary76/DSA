@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ankushchoudhari76/Documents/VS CODE/DSA/LinkedList/DoudlyLINKEDlist/DELETION/output/DeleteKthELEMENT'
+relocations:
+  - { offset: 0x16CB7, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x65276, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x16FDC, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x300, symBinAddr: 0x100003C48, symSize: 0xF0 }
+  - { offset: 0x17028, size: 0x8, addend: 0x0, symName: __Z8printDLLP4Node, symObjAddr: 0x29C, symBinAddr: 0x100003BE4, symSize: 0x64 }
+  - { offset: 0x1705A, size: 0x8, addend: 0x0, symName: __Z9deleteDLLP4Nodei, symObjAddr: 0x17C, symBinAddr: 0x100003AC4, symSize: 0x120 }
+  - { offset: 0x170D7, size: 0x8, addend: 0x0, symName: __Z13deleteDLLTailP4Node, symObjAddr: 0xE0, symBinAddr: 0x100003A28, symSize: 0x9C }
+  - { offset: 0x17127, size: 0x8, addend: 0x0, symName: __Z13deleteDLLHeadP4Node, symObjAddr: 0x78, symBinAddr: 0x1000039C0, symSize: 0x68 }
+  - { offset: 0x17185, size: 0x8, addend: 0x0, symName: __ZN4NodeC1Ei, symObjAddr: 0x44, symBinAddr: 0x10000398C, symSize: 0x34 }
+  - { offset: 0x171ED, size: 0x8, addend: 0x0, symName: __ZN4NodeC1EiPS_S0_, symObjAddr: 0x0, symBinAddr: 0x100003948, symSize: 0x44 }
+...

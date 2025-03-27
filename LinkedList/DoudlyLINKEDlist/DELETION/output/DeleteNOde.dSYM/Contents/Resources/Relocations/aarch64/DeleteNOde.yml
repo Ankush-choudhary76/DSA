@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ankushchoudhari76/Documents/VS CODE/DSA/LinkedList/DoudlyLINKEDlist/DELETION/output/DeleteNOde'
+relocations:
+  - { offset: 0x16CB7, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x64D80, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x16FDC, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x154, symBinAddr: 0x100003CD0, symSize: 0xE4 }
+  - { offset: 0x1700A, size: 0x8, addend: 0x0, symName: __Z8printDLLP4Node, symObjAddr: 0xF0, symBinAddr: 0x100003C6C, symSize: 0x64 }
+  - { offset: 0x17038, size: 0x8, addend: 0x0, symName: __Z10deleteNodeP4Node, symObjAddr: 0x78, symBinAddr: 0x100003BF4, symSize: 0x78 }
+  - { offset: 0x170A5, size: 0x8, addend: 0x0, symName: __ZN4NodeC1Ei, symObjAddr: 0x44, symBinAddr: 0x100003BC0, symSize: 0x34 }
+  - { offset: 0x1710D, size: 0x8, addend: 0x0, symName: __ZN4NodeC1EiPS_S0_, symObjAddr: 0x0, symBinAddr: 0x100003B7C, symSize: 0x44 }
+...

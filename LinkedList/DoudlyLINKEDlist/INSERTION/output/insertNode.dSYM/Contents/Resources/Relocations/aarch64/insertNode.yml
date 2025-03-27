@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ankushchoudhari76/Documents/VS CODE/DSA/LinkedList/DoudlyLINKEDlist/INSERTION/output/insertNode'
+relocations:
+  - { offset: 0x16CB7, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x64D96, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x16FD7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x148, symBinAddr: 0x100003C80, symSize: 0x138 }
+  - { offset: 0x17014, size: 0x8, addend: 0x0, symName: __Z15insertBEFORnodeP4Nodei, symObjAddr: 0xDC, symBinAddr: 0x100003C14, symSize: 0x6C }
+  - { offset: 0x1706F, size: 0x8, addend: 0x0, symName: __Z8printDLLP4Node, symObjAddr: 0x78, symBinAddr: 0x100003BB0, symSize: 0x64 }
+  - { offset: 0x170D6, size: 0x8, addend: 0x0, symName: __ZN4NodeC1EiPS_S0_, symObjAddr: 0x34, symBinAddr: 0x100003B6C, symSize: 0x44 }
+  - { offset: 0x17136, size: 0x8, addend: 0x0, symName: __ZN4NodeC1Ei, symObjAddr: 0x0, symBinAddr: 0x100003B38, symSize: 0x34 }
+...
